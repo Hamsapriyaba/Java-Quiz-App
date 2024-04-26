@@ -1,1 +1,1 @@
-# MotionCut---Java-Quiz-App
+#Java-Quiz-App
