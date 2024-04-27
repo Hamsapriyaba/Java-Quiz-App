@@ -15,13 +15,9 @@ To run the Java Quiz Application, follow these steps:
 
 1. Ensure you have Java Development Kit (JDK) installed on your system.
 2. Clone this repository to your local machine.
-3. Open a terminal or command prompt and navigate to the directory containing the source code.
-4. Compile the Java files using the following command:
-   ```bash
-  javac Quiz.java
-
-6. Follow the on-screen instructions to take the quiz.
-7. After completing the quiz, view your score and feedback.
+3. Run the code using any IDE or from the command line.
+4. Follow the on-screen instructions to take the quiz.
+5. After completing the quiz, view your score and feedback.
 
 ## Sample Questions
 
